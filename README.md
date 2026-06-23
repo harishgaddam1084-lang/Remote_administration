@@ -33,7 +33,7 @@ python3 --version
 ### Using Git
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/<harishgaddam1084-lang>/<Remote_administration>.git
 cd <repository-name>
 ```
 
@@ -49,7 +49,7 @@ All required modules are included with Python's standard library.
 
 No additional packages are required.
 
-If a `requirements.txt` file is provided, install dependencies using:
+If a `requirements.txt` file is provided or facing `No module found error`, install dependencies using:
 
 ```bash
 pip install -r requirements.txt

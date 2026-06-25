@@ -132,15 +132,6 @@ Then enter the file name to transfer.
 
 ---
 
-## 8. Exit
-
-Press:
-
-```text
-Ctrl + C
-```
-
-to stop the program.
 
 ---
 

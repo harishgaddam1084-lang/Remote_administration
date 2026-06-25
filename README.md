@@ -33,8 +33,8 @@ python3 --version
 ### Using Git
 
 ```bash
-git clone https://github.com/<harishgaddam1084-lang>/<Remote_administration>.git
-cd <Remote_administration>
+git clone https://github.com/harishgaddam1084-lang/Remote_administration.git
+cd Remote_administration
 ```
 
 ### Or
